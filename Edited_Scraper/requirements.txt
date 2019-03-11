@@ -1,0 +1,13 @@
+msgpack
+appdirs==1.4.3
+cssselect==1.0.1
+lxml==3.7.3
+packaging==16.8
+post
+public
+pyparsing==2.2.0
+pyquery==1.2.17
+query-string
+requests==2.13.0
+six==1.10.0
+get
